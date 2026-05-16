@@ -1,0 +1,21 @@
+{
+  "name": "project_management_application",
+  "version": "1.0.0",
+  "description": "A project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "and",
+    "all"
+  ],
+  "author": "Raj Kor",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
