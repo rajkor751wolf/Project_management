@@ -14,6 +14,6 @@ connectDB()
     });
   })
   .catch((err) => {
-    console.error("Failed to connect to the database:", err);
+    console.error("Failed to connect to the databases:", err);
     process.exit(1);
   });
